@@ -1,5 +1,16 @@
 # project_hdfs
 
+## 프로젝트 소개
+- 데이터 분석을 위한 Hadoop & Spark 파일 분산 저장/처리 시스템 구축
+- CSV 데이터 -> parquet 컨버팅으로 파일 최적화
+- EC2 환경에 하둡, 스파크 클러스터를 구성하여 분산 파일 저장/분석 시스템 구축
+- 주피터노트북에서 파이스파크를 사용해 데이터 접근하도록 구성
+- 주키퍼를 활용해 클러스터 안정성 강화
+
+기간 : 2023년 5월 
+
+## 프레젠테이션
+
 ![hadoop spark 클러스터 구축 (3)](https://github.com/tes-b/project_hdfs/assets/109839413/0cba0bdb-aab0-40f9-a164-9bffdfee1e8a)
 ![hadoop spark 클러스터 구축 (4)](https://github.com/tes-b/project_hdfs/assets/109839413/f85beadc-96d9-485a-9d5b-4480b35778ee)
 ![hadoop spark 클러스터 구축 (5)](https://github.com/tes-b/project_hdfs/assets/109839413/3239f7c5-13a4-406b-9c16-5c9f237449bd)
